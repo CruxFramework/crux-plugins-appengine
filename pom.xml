@@ -8,7 +8,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<cruxVersion>5.3-SNAPSHOT</cruxVersion>
+		<cruxVersion>5.4-SNAPSHOT</cruxVersion>
 		<appengine.target.version>1.9.9</appengine.target.version>
 	</properties>
 
